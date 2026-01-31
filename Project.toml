@@ -1,0 +1,13 @@
+name = "HashForensics"
+uuid = "b2c3d4e5-6789-01ab-cdef-222222222222"
+authors = ["bad-antics <bad-antics@users.noreply.github.com>"]
+version = "1.0.0"
+
+[deps]
+SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+MD5 = "6ac74813-4b46-53a4-afec-0b5dc9d7885c"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+
+[compat]
+julia = "1.6"
